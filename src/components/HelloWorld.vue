@@ -125,5 +125,6 @@ export default {
 };
 </script>
 
-<style>
+<style lang="scss">
+ @import "src/assets/style/components/hello";
 </style>
